@@ -39,7 +39,7 @@ dupp.fetch_community_id(link=b72.decode("UTF-8"))
 os.system("clear")
 ###
 
-duppy.login(email=" ngd40879@gmail.com ", password="Botamino123")
+duppy.login(email="", password="3")
 
 def like(quantia: int):
     ammount = quantia
